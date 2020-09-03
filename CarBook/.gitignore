@@ -1,0 +1,12 @@
+//.gitignore
+FormAddCar.Designer.cs
+FormAddCar
+Form1
+CarBook
+Form1.resx
+App.config
+CarBook.csproj
+Form1.Designer.cs
+desktop.ini
+FormAddCar.resx
+
